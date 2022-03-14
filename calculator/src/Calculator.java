@@ -1,5 +1,7 @@
 public class Calculator {
     public  Integer addition(int x , int y){
+        // adding validation
+        if(x==0) System.out.println("not null");
         return x+y;
 
     }
