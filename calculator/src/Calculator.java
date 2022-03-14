@@ -3,15 +3,18 @@ public class Calculator {
         return x+y;
 
     }
-    //substraction
+
     public Integer Subtraching (Integer x , Integer y){
+        //substraction
         return x/y;
     }
-    //multiplication
+
     public Integer multiplicztion (Integer x , Integer y){
+        //multiplication
         return x*y;
     }
     public Integer division (Integer x , Integer y){
+//division
         return x/y;
     }
 
