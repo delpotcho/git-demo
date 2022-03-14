@@ -5,6 +5,7 @@ public class Calculator {
     }
     //substraction
     public Integer Subtraching (Integer x , Integer y){
+
         return x/y;
     }
     //multiplication
